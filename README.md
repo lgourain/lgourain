@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **louis.gourain@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/louis-gourain-7a0551113/](https://www.linkedin.com/in/louis-gourain-7a0551113/)
+- 📄 Know about my [experiences](https://www.linkedin.com/in/louis-gourain-7a0551113/)
 
 - ⚡ Fun fact **I think I am funny** 😂
 
