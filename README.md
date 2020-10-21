@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Louis</h1>
-<h3 align="center">A passionate full-stack developer from France</h3>
+<h3 align="center">A passionate full-stack developer from France 🇫🇷</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lgourain&label=Profile%20views&color=0e75b6&style=flat" alt="lgourain" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **challenging projects**
 
-- 🤝 I’m looking for help with **NutriFit**
+- 🤝 I’m looking for help with **NutriFit** *(work in progress)*
 
 - 👨‍💻 All of my projects are available on [my website](https://lgourain.github.io)
 
@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/louis-gourain-7a0551113/](https://www.linkedin.com/in/louis-gourain-7a0551113/)
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I think I am funny** 😂
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
