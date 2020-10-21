@@ -13,9 +13,9 @@
 
 - 🤝 I’m looking for help with **NutriFit**
 
-- 👨‍💻 All of my projects are available at [https://lgourain.github.io](https://lgourain.github.io)
+- 👨‍💻 All of my projects are available on [my website](https://lgourain.github.io)
 
-- 📝 I regulary write articles on [https://www.wanadev.fr/blog/](https://www.wanadev.fr/blog/)
+- 📝 I regulary write articles on [Wanadev Blog](https://www.wanadev.fr/blog/)
 
 - 💬 Ask me about **javascript, react and vue**
 
