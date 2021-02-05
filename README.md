@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **NutriFit** *(work in progress)*
 
-- 👨‍💻 All of my projects are available on [my website](https://lgourain.github.io)
+- 👨‍💻 All of my projects are available on [my website](https://www.louis-gourain.com/)
 
 - 📝 I regulary write articles on [Wanadev Blog](https://www.wanadev.fr/blog/)
 
