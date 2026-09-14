@@ -24,7 +24,3 @@
 
 <a href="https://linkedin.com/in/louis-gourain-7a0551113" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="louis-gourain-7a0551113" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lgourain&show_icons=true&locale=en&layout=compact" alt="lgourain" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lgourain&show_icons=true&locale=en" alt="lgourain" /></p>
