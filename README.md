@@ -1,23 +1,19 @@
 <h1 align="center">Hi 👋, I'm Louis</h1>
-<h3 align="center">A passionate full-stack developer from France 🇫🇷</h3>
+<h3 align="center">A passionate full-stack french 🇫🇷 developer working from Madrid 🇪🇸</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lgourain&label=Profile%20views&color=0e75b6&style=flat" alt="lgourain" /> </p>
 
 <p align="left"> <a href="https://twitter.com/louisgourain" target="blank"><img src="https://img.shields.io/twitter/follow/louisgourain?logo=twitter&style=for-the-badge" alt="louisgourain" /></a> </p>
 
-- 🔭 I’m currently working at [Wanadev](https://www.wanadev.fr)
+- 🔭 I’m currently working as freelance
 
-- 🌱 I’m currently learning **Deno.land, UI/UX, and many other topics**
+- 🌱 I’m currently learning **AI Driven Development, Nuxt, and many other topics**
 
 - 👯 I’m looking to collaborate on **challenging projects**
 
-- 🤝 I’m looking for help with **NutriFit** *(work in progress)*
-
 - 👨‍💻 All of my projects are available on [my website](https://www.louis-gourain.com/)
 
-- 📝 I regulary write articles on [Wanadev Blog](https://www.wanadev.fr/blog/)
-
-- 💬 Ask me about **javascript, react and vue**
+- 💬 Ask me about **typescript and vue**
 
 - 📫 How to reach me **louis.gourain@gmail.com**
 
