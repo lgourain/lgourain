@@ -26,4 +26,4 @@ Certifié Vue.js (certificates.dev) et Scrum Master (PSM I) · Ingénieur IMT Li
 
 ### Me contacter
 
-📫 [contact@louis-gourain.com](mailto:contact@louis-gourain.com) · 🌐 [louis-gourain.com](https://www.louis-gourain.com/) · 💼 [LinkedIn](https://www.linkedin.com/in/louis-gourain-7a0551113/) · [Malt](https://www.malt.fr/profile/louisgourain)
+📫 [contact@louis-gourain.com](mailto:contact@louis-gourain.com) · 🌐 [louis-gourain.com](https://www.louis-gourain.com/) · 💼 [LinkedIn](https://www.linkedin.com/in/louis-gourain/) · [Malt](https://www.malt.fr/profile/louisgourain)
