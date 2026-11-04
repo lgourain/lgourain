@@ -8,8 +8,8 @@
 
 ### Deux façons de travailler ensemble
 
-- 🛠️ **Construire** : votre activité tient sur Excel, du papier et des e-mails ? Je comprends votre métier, je vous montre une maquette cliquable sous 24 h, puis je livre votre outil par lots de 3 à 6 semaines, avec une version de test en ligne à chaque étape.
-- 🔧 **Débloquer** : votre front Vue rame, l'architecture coince ou la migration vers Vue 3 traîne ? Audit, architecture, migration, qualité et tests, développement assisté par l'IA.
+- 🛠️ **Construire** : votre activité tient sur Excel, du papier et des e-mails ? Après 20 minutes d'échange, vous testez dès le lendemain une première version de votre outil en ligne, avec un prix, puis je livre une nouvelle partie toutes les 4 semaines, sur des comptes à votre nom.
+- 🔧 **Débloquer** : votre front Vue rame, l'architecture coince ou la migration de Vue 2 vers Vue 3 traîne ? Audit, renfort senior, migration, bonnes pratiques et tests, mise en place de l'IA dans votre façon de coder.
 
 ### Quelques réalisations
 
