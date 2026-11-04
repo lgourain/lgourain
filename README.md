@@ -13,7 +13,7 @@
 
 ### Quelques réalisations
 
-- **Application de prise en charge médicale** utilisée par les secouristes des Jeux Olympiques de Paris 2024 : plus de 1 000 prises en charge par jour, sans incident (Vue 3, TypeScript, PWA hors-ligne).
+- **Front-end d'une PWA hors ligne pour des équipes de terrain**, de sa conception jusqu'à son utilisation sur de grands événements sportifs internationaux (Vue 3, TypeScript).
 - **Application de fouilles archéologiques** pour une école d'archéologie suisse, livrée au forfait par lots (Vue 3, Quasar, Pinia, Go).
 - **PWA hors-ligne de terrain** pour les agents d'un site patrimonial protégé (React, API Platform).
 - **Méthode de développement assisté par l'IA** en 6 phases, avec des règles de code pour Claude Code et Copilot.
